@@ -1,0 +1,1772 @@
+[
+  {
+    "id": 1,
+    "code": "AUD6V014",
+    "name": "Análisis de problemas informáticos en Diseño",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Ciencia y Tecnología",
+    "focus": "Computación y Pensamiento Lógico",
+    "ok": 0
+  },
+  {
+    "id": 2,
+    "code": "AUD5I016",
+    "name": "Análisis y fabricación avanzada asistidos por computador",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Manufactura y Producción Industrial",
+    "ok": 0
+  },
+  {
+    "id": 3,
+    "code": "AUD5V0011",
+    "name": "Animación Digital",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Ciencia y Tecnología",
+    "focus": "Post-producción y Medios Digitales",
+    "ok": 0
+  },
+  {
+    "id": 4,
+    "code": "AUD7V008",
+    "name": "Animación y edición digital",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Ciencia y Tecnología",
+    "focus": "Post-producción y Medios Digitales",
+    "ok": 0
+  },
+  {
+    "id": 5,
+    "code": "AUD5I033",
+    "name": "Arquitectura sin Residuos - Prefabricación e Industrialización",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Ecodiseño y Sostenibilidad Material",
+    "ok": 0
+  },
+  {
+    "id": 6,
+    "code": "AUD5I031",
+    "name": "Artesanías: cultura, técnica y producto",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Oficios y Cultura Material",
+    "ok": 0
+  },
+  {
+    "id": 7,
+    "code": "AUD5I025",
+    "name": "BattleBots: Interfacultades",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Robótica y Mecatrónica",
+    "ok": 0
+  },
+  {
+    "id": 8,
+    "code": "AUD5I013",
+    "name": "Biobased materials for the built environment",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Bio-materiales y Nuevas Tecnologías",
+    "ok": 0
+  },
+  {
+    "id": 9,
+    "code": "AUD7I026",
+    "name": "Biomecánica e innovación aplicada (ortopedia)",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Biomecánica y Ergonomía Avanzada",
+    "ok": 0
+  },
+  {
+    "id": 10,
+    "code": "AUD5I030, AUD6I024",
+    "name": "Biomecánica e innovación aplicada al diseño ortopédico",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Biomecánica y Ergonomía Avanzada",
+    "ok": 0
+  },
+  {
+    "id": 11,
+    "code": "AUD5I007",
+    "name": "Bocetaje avanzado para el diseño del producto",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Representación y Bocetaje (Sketching)",
+    "ok": 0
+  },
+  {
+    "id": 12,
+    "code": "AUDIV005",
+    "name": "Branding",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Comunicación Visual Estratégica",
+    "ok": 0
+  },
+  {
+    "id": 13,
+    "code": "AUDIV007",
+    "name": "Color aplicado al diseño",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Morfología",
+    "focus": "Teoría y Aplicación del Color (CMF)",
+    "ok": 0
+  },
+  {
+    "id": 14,
+    "code": "AUDIV002",
+    "name": "Color y percepción",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Morfología",
+    "focus": "Teoría y Aplicación del Color (CMF)",
+    "ok": 0
+  },
+  {
+    "id": 15,
+    "code": "AUDIV012",
+    "name": "Color, anatomía y lenguaje",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Morfología",
+    "focus": "Teoría y Aplicación del Color (CMF)",
+    "ok": 0
+  },
+  {
+    "id": 16,
+    "code": "AUD7I015",
+    "name": "Color, materiales y acabados (CMF)",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Teoría y Aplicación del Color (CMF)",
+    "ok": 0
+  },
+  {
+    "id": 17,
+    "code": "AUD7V016",
+    "name": "Color, semiótica y lenguaje",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Teoría y Aplicación del Color (CMF)",
+    "ok": 0
+  },
+  {
+    "id": 18,
+    "code": "AUD5I017",
+    "name": "Complementos sostenibles y Joyería contemporánea",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Oficios y Accesorios",
+    "ok": 0
+  },
+  {
+    "id": 19,
+    "code": "AUD5I012",
+    "name": "Comunicación, prototipado e implementación de servicios",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Diseño de Servicios y Experiencia",
+    "ok": 0
+  },
+  {
+    "id": 20,
+    "code": "AUD5I032",
+    "name": "Construcción en madera",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Sistemas Constructivos y Estructuras",
+    "ok": 0
+  },
+  {
+    "id": 21,
+    "code": "AUD7V006",
+    "name": "Contingencia social y diseño centrado en el usuario",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Vinculación Territorial y Social",
+    "ok": 0
+  },
+  {
+    "id": 22,
+    "code": "AUD7I018",
+    "name": "Creación textil participativa",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Vinculación Territorial y Social",
+    "ok": 0
+  },
+  {
+    "id": 23,
+    "code": "AUD6V013, AUD7V010",
+    "name": "Creación y Diseño de personajes para animación",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Narrativa Visual e Ilustración",
+    "ok": 0
+  },
+  {
+    "id": 24,
+    "code": "AUD5I018",
+    "name": "Creatividad para el Diseño industrial y servicios",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Metodologías Creativas",
+    "ok": 0
+  },
+  {
+    "id": 25,
+    "code": "AUD5V013",
+    "name": "Creatividad y diseño",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Metodologías Creativas",
+    "ok": 0
+  },
+  {
+    "id": 26,
+    "code": "AUD7I019",
+    "name": "Creatividad y gamificación",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Metodologías Creativas",
+    "ok": 0
+  },
+  {
+    "id": 27,
+    "code": "AUDIV021",
+    "name": "Crítica cultural, visualidades feministas",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Teoría y Crítica Cultural",
+    "ok": 0
+  },
+  {
+    "id": 28,
+    "code": "AUDIV057",
+    "name": "Croquis y dibujo arquitectónico",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Morfología",
+    "focus": "Representación y Bocetaje (Sketching)",
+    "ok": 0
+  },
+  {
+    "id": 29,
+    "code": "AUD7V012",
+    "name": "Cultura visual en Latinoamérica",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Teoría y Crítica Cultural",
+    "ok": 0
+  },
+  {
+    "id": 30,
+    "code": "AUD5I014",
+    "name": "Design sketching. Bocetaje para Diseñadores Industriales",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Representación y Bocetaje (Sketching)",
+    "ok": 0
+  },
+  {
+    "id": 31,
+    "code": "AUDIV023",
+    "name": "Diseño automotriz",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Morfología",
+    "focus": "Morfología de Objetos Complejos",
+    "ok": 0
+  },
+  {
+    "id": 32,
+    "code": "AUD5I015",
+    "name": "Diseño de accesorios con reinvención de materiales",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Experimentación Material y Upcycling",
+    "ok": 0
+  },
+  {
+    "id": 33,
+    "code": "AUD6V009",
+    "name": "Diseño de Contexto y el viaje del cliente",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Diseño de Servicios y Experiencia",
+    "ok": 0
+  },
+  {
+    "id": 34,
+    "code": "AUD6V027",
+    "name": "Diseño de ediciones experimentales",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Composición Editorial y Tipográfica",
+    "ok": 0
+  },
+  {
+    "id": 35,
+    "code": "AUDIV020",
+    "name": "Diseño de instrumentos musicales digitales",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Ciencia y Tecnología",
+    "focus": "Prototipado Electrónico e Interacción",
+    "ok": 0
+  },
+  {
+    "id": 36,
+    "code": "AUD7V021",
+    "name": "Diseño de interacción y experiencia",
+    "type": "troncal",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Diseño de Servicios y Experiencia",
+    "ok": 0
+  },
+  {
+    "id": 37,
+    "code": "AUD5I022",
+    "name": "Diseño de interfaz electrónica mediante Arduino",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Prototipado Electrónico e Interacción",
+    "ok": 0
+  },
+  {
+    "id": 38,
+    "code": "AUD6I007",
+    "name": "Diseño de productos y servicios basado en emociones",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Diseño de Servicios y Experiencia",
+    "ok": 0
+  },
+  {
+    "id": 39,
+    "code": "AUD6I019, AUDIV059",
+    "name": "Diseño de vehículos",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Morfología",
+    "focus": "Morfología de Objetos Complejos",
+    "ok": 0
+  },
+  {
+    "id": 40,
+    "code": "AUD6V006",
+    "name": "Diseño de vídeo juegos",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Ciencia y Tecnología",
+    "focus": "Programación y Desarrollo Web",
+    "ok": 0
+  },
+  {
+    "id": 41,
+    "code": "AUD5V006",
+    "name": "Diseño editorial",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Composición Editorial y Tipográfica",
+    "ok": 0
+  },
+  {
+    "id": 42,
+    "code": "AUD6V020",
+    "name": "Diseño editorial y publicación",
+    "type": "troncal",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Gestión de Publicaciones",
+    "ok": 0
+  },
+  {
+    "id": 43,
+    "code": "AUD5V024",
+    "name": "Diseño editorial: de la creación a la publicación",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Gestión de Publicaciones",
+    "ok": 0
+  },
+  {
+    "id": 44,
+    "code": "AUD7I016",
+    "name": "Diseño estratégico de productos y servicios",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Estrategia y Sostenibilidad",
+    "ok": 0
+  },
+  {
+    "id": 45,
+    "code": "AUD5V025",
+    "name": "Diseño Gráfico para industrias culturales",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Gestión Cultural y de Industrias",
+    "ok": 0
+  },
+  {
+    "id": 46,
+    "code": "AUD6V023",
+    "name": "Diseño Gráfico para las Artes",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Gestión Cultural y de Industrias",
+    "ok": 0
+  },
+  {
+    "id": 47,
+    "code": "AUD7I006",
+    "name": "Diseño para el ciclismo, objetos",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Morfología de Objetos Complejos",
+    "ok": 0
+  },
+  {
+    "id": 48,
+    "code": "AUDIV013",
+    "name": "Diseño para Innovación Social",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Vinculación Territorial y Social",
+    "ok": 0
+  },
+  {
+    "id": 49,
+    "code": "AUD6I018",
+    "name": "Diseño y construcción sustentable con madera masiva",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Sistemas Constructivos y Estructuras",
+    "ok": 0
+  },
+  {
+    "id": 50,
+    "code": "AUD5V012",
+    "name": "Diseño y Cultura Visual en Chile",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Teoría y Crítica Cultural",
+    "ok": 0
+  },
+  {
+    "id": 51,
+    "code": "AUD6I014",
+    "name": "Diseño y energías renovables",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Tecnologías de Energía y Sustentabilidad",
+    "ok": 0
+  },
+  {
+    "id": 52,
+    "code": "AUD7V009",
+    "name": "Diseño y estrategia de publicidad y propaganda",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Comunicación Visual Estratégica",
+    "ok": 0
+  },
+  {
+    "id": 53,
+    "code": "AUDIV009",
+    "name": "Diseño y Marketing de Productos y Servicios",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Emprendimiento y Negocios",
+    "ok": 0
+  },
+  {
+    "id": 54,
+    "code": "AUDIV006",
+    "name": "Diseño y Montaje de Exposiciones",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Morfología",
+    "focus": "Imagen y Lenguaje Visual",
+    "ok": 0
+  },
+  {
+    "id": 55,
+    "code": "AUD6I012",
+    "name": "Diseño y patrimonio, Técnicas artesanales",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Oficios y Cultura Material",
+    "ok": 0
+  },
+  {
+    "id": 56,
+    "code": "AUD6V019",
+    "name": "Diseño y pensamiento crítico",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Teoría y Crítica Cultural",
+    "ok": 0
+  },
+  {
+    "id": 57,
+    "code": "AUD6I013",
+    "name": "Diseño y Sustentabilidad para la Economía Circular",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Estrategia y Sostenibilidad",
+    "ok": 0
+  },
+  {
+    "id": 58,
+    "code": "AUD5V027",
+    "name": "Diseño y visualización de información",
+    "type": "troncal",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Comunicación Visual Estratégica",
+    "ok": 0
+  },
+  {
+    "id": 59,
+    "code": "AUD7V013",
+    "name": "Diseño, afecto y género",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Teoría y Crítica Cultural",
+    "ok": 0
+  },
+  {
+    "id": 60,
+    "code": "AUD6V024",
+    "name": "Edición experimental y artes visuales",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Experimentación y Artes Visuales",
+    "ok": 0
+  },
+  {
+    "id": 61,
+    "code": "AUD6V022",
+    "name": "Editar-diseñar-publicar. Discursos de la arquitectura",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Gestión de Publicaciones",
+    "ok": 0
+  },
+  {
+    "id": 62,
+    "code": "AUD6V018",
+    "name": "Educación tipográfica",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Teoría y Crítica Cultural",
+    "ok": 0
+  },
+  {
+    "id": 63,
+    "code": "AUD7V014",
+    "name": "El discurso del afiche político: estética y praxis",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Teoría y Crítica Cultural",
+    "ok": 0
+  },
+  {
+    "id": 64,
+    "code": "AUD7I003",
+    "name": "Electivo Diseño Industrial y Servicios 7",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Gestión y Proyectos de Mención",
+    "ok": 0
+  },
+  {
+    "id": 65,
+    "code": "AUD7I004",
+    "name": "Electivo Diseño Industrial y Servicios 8",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Gestión y Proyectos de Mención",
+    "ok": 0
+  },
+  {
+    "id": 66,
+    "code": "AUD7I005",
+    "name": "Electivo Diseño Industrial y Servicios 9",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Gestión y Proyectos de Mención",
+    "ok": 0
+  },
+  {
+    "id": 67,
+    "code": "AUD7I014",
+    "name": "Emprendimiento basado en Diseño",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Emprendimiento y Negocios",
+    "ok": 0
+  },
+  {
+    "id": 68,
+    "code": "AUDIV001",
+    "name": "Emprendimiento y consultoría en diseño",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Emprendimiento y Negocios",
+    "ok": 0
+  },
+  {
+    "id": 69,
+    "code": "AUD7I022",
+    "name": "Enfoques emergentes y sustentabilidad",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Estrategia y Sostenibilidad",
+    "ok": 0
+  },
+  {
+    "id": 70,
+    "code": "AUD5I020, AUD5V020",
+    "name": "Enfoques investigativos en Diseño, innovación y creatividad",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Investigación y Metodología",
+    "ok": 0
+  },
+  {
+    "id": 71,
+    "code": "AUDIV051",
+    "name": "English for Work Purposes",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Comunicación Visual Estratégica",
+    "ok": 0
+  },
+  {
+    "id": 72,
+    "code": "AUDIV055",
+    "name": "Entorno construido y bienestar",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Vinculación Territorial y Social",
+    "ok": 0
+  },
+  {
+    "id": 73,
+    "code": "AUD7I029",
+    "name": "Ergonomía aplicada al diseño de vehículos",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Biomecánica y Ergonomía Avanzada",
+    "ok": 0
+  },
+  {
+    "id": 74,
+    "code": "AUDIV037",
+    "name": "Espacio público y ciudades saludables",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Vinculación Territorial y Social",
+    "ok": 0
+  },
+  {
+    "id": 75,
+    "code": "AUD6V016",
+    "name": "Estética e industrias culturales",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Gestión Cultural y de Industrias",
+    "ok": 0
+  },
+  {
+    "id": 76,
+    "code": "AUDIV019",
+    "name": "Estrategias de Ecodiseño",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Estrategia y Sostenibilidad",
+    "ok": 0
+  },
+  {
+    "id": 77,
+    "code": "AUD7I020",
+    "name": "Estructuras, materiales compuestos y plásticos",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Sistemas Constructivos y Estructuras",
+    "ok": 0
+  },
+  {
+    "id": 78,
+    "code": "ESPE22",
+    "name": "Experiencia de usuario digital",
+    "type": "abierto",
+    "track": "—",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Diseño de Servicios y Experiencia",
+    "ok": 0
+  },
+  {
+    "id": 79,
+    "code": "AUD7V015",
+    "name": "Experimentación editorial",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Composición Editorial y Tipográfica",
+    "ok": 0
+  },
+  {
+    "id": 80,
+    "code": "AUD7I023",
+    "name": "Experimentación textil orientada al upcycling",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Experimentación Material y Upcycling",
+    "ok": 0
+  },
+  {
+    "id": 81,
+    "code": "AUD5I019",
+    "name": "Exploración creativa con los materiales y sus tecnologías",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Laboratorio de Materiales y Oficios",
+    "ok": 0
+  },
+  {
+    "id": 82,
+    "code": "AUDIV053",
+    "name": "Fundamentos de Diseño Digital",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Ciencia y Tecnología",
+    "focus": "Post-producción y Medios Digitales",
+    "ok": 0
+  },
+  {
+    "id": 83,
+    "code": "AUDIV049",
+    "name": "Fundamentos de Economía",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Emprendimiento y Negocios",
+    "ok": 0
+  },
+  {
+    "id": 84,
+    "code": "AUD6V010",
+    "name": "Fundamentos fotográficos",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Imagen y Lenguaje Visual",
+    "ok": 0
+  },
+  {
+    "id": 85,
+    "code": "AUD5I023",
+    "name": "Gamificación para el Diseño industrial y servicios",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Diseño de Servicios y Experiencia",
+    "ok": 0
+  },
+  {
+    "id": 86,
+    "code": "AUDIV041",
+    "name": "Geografía feminista",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Teoría y Crítica Cultural",
+    "ok": 0
+  },
+  {
+    "id": 87,
+    "code": "AUDIV060",
+    "name": "Geografías participativas y divulgación",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Vinculación Territorial y Social",
+    "ok": 0
+  },
+  {
+    "id": 88,
+    "code": "AUD5I029",
+    "name": "Gestión y producción de arquitectura interior",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Gestión de Producción",
+    "ok": 0
+  },
+  {
+    "id": 89,
+    "code": "AUD7I011",
+    "name": "Herramientas computacionales I. Representación",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Modelado y Simulación Digital",
+    "ok": 0
+  },
+  {
+    "id": 90,
+    "code": "AUD5I008",
+    "name": "Herramientas computacionales II, modelamiento paramétrico",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Modelado y Simulación Digital",
+    "ok": 0
+  },
+  {
+    "id": 91,
+    "code": "AUD7I013",
+    "name": "Herramientas computacionales IV. Modelamiento generativo",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Computación y Pensamiento Lógico",
+    "ok": 0
+  },
+  {
+    "id": 92,
+    "code": "AUD6I008",
+    "name": "Herramientas computacionales: representación y simulación",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Modelado y Simulación Digital",
+    "ok": 0
+  },
+  {
+    "id": 93,
+    "code": "AUD7I008",
+    "name": "Herramientas computacionales. Modelado conceptual",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Modelado y Simulación Digital",
+    "ok": 0
+  },
+  {
+    "id": 94,
+    "code": "AUD7I021",
+    "name": "Herramientas de sustentabilidad textil y upcycling",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Ecodiseño y Sostenibilidad Material",
+    "ok": 0
+  },
+  {
+    "id": 95,
+    "code": "AUDIV010",
+    "name": "Herramientas para el emprendimiento en diseño",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Emprendimiento y Negocios",
+    "ok": 0
+  },
+  {
+    "id": 96,
+    "code": "AUD6I010",
+    "name": "Historia y Teoría de la moda",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Teoría y Crítica Cultural",
+    "ok": 0
+  },
+  {
+    "id": 97,
+    "code": "AUD6V025",
+    "name": "Iconografía de la contracultura en Chile",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Teoría y Crítica Cultural",
+    "ok": 0
+  },
+  {
+    "id": 98,
+    "code": "AUDIV039",
+    "name": "Iluminación Natural: diseño eficiente",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Ciencia y Tecnología",
+    "focus": "Tecnologías de Energía y Sustentabilidad",
+    "ok": 0
+  },
+  {
+    "id": 99,
+    "code": "AUD7V018",
+    "name": "Ilustración Creativa",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Narrativa Visual e Ilustración",
+    "ok": 0
+  },
+  {
+    "id": 100,
+    "code": "AUD6V007",
+    "name": "Ilustración editorial",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Narrativa Visual e Ilustración",
+    "ok": 0
+  },
+  {
+    "id": 101,
+    "code": "AUD5V008",
+    "name": "Infografía",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Comunicación Visual Estratégica",
+    "ok": 0
+  },
+  {
+    "id": 102,
+    "code": "AUD5I010",
+    "name": "Innovación para la sostenibilidad",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Estrategia y Sostenibilidad",
+    "ok": 0
+  },
+  {
+    "id": 103,
+    "code": "AUDIV027",
+    "name": "Inteligencia Artificial",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Ciencia y Tecnología",
+    "focus": "Inteligencia Artificial y Datos",
+    "ok": 0
+  },
+  {
+    "id": 104,
+    "code": "AUD6I023",
+    "name": "Inteligencia Artificial aplicada a la Gestión de Proyectos",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Gestión y Proyectos de Mención",
+    "ok": 0
+  },
+  {
+    "id": 105,
+    "code": "AUD6V026",
+    "name": "Inteligencia Artificial Generativa",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Ciencia y Tecnología",
+    "focus": "Inteligencia Artificial y Datos",
+    "ok": 0
+  },
+  {
+    "id": 106,
+    "code": "AUDIV024",
+    "name": "Internet de las cosas para vivienda social",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Ciencia y Tecnología",
+    "focus": "Prototipado Electrónico e Interacción",
+    "ok": 0
+  },
+  {
+    "id": 107,
+    "code": "AUDIV029",
+    "name": "Interventions in public space",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Vinculación Territorial y Social",
+    "ok": 0
+  },
+  {
+    "id": 108,
+    "code": "AUD5V0012",
+    "name": "Introducción a la Ilustración",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Narrativa Visual e Ilustración",
+    "ok": 0
+  },
+  {
+    "id": 109,
+    "code": "AUD6V011",
+    "name": "Introducción a la producción gráfica",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Ciencia y Tecnología",
+    "focus": "Post-producción y Medios Digitales",
+    "ok": 0
+  },
+  {
+    "id": 110,
+    "code": "AUD7I025",
+    "name": "Introducción al biodiseño",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Bio-materiales y Nuevas Tecnologías",
+    "ok": 0
+  },
+  {
+    "id": 111,
+    "code": "AUD5I021, AUD5V021",
+    "name": "Introducción al Desarrollo Front End con HTML, CSS y JS",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Ciencia y Tecnología",
+    "focus": "Programación y Desarrollo Web",
+    "ok": 0
+  },
+  {
+    "id": 112,
+    "code": "AUDIV011",
+    "name": "Introducción al diseño de packaging",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Morfología",
+    "focus": "Morfología de Objetos Complejos",
+    "ok": 0
+  },
+  {
+    "id": 113,
+    "code": "AUD7I024",
+    "name": "Introducción al Diseño de Vehículos con VR",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Realidad Virtual y Aumentada",
+    "ok": 0
+  },
+  {
+    "id": 114,
+    "code": "AUD6I020",
+    "name": "Introducción al moldaje y sistemas de representación textil",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Morfología Textil y Superficies",
+    "ok": 0
+  },
+  {
+    "id": 115,
+    "code": "AUDIV018",
+    "name": "Investigación-Acción Participativa (PAR)",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Investigación y Metodología",
+    "ok": 0
+  },
+  {
+    "id": 116,
+    "code": "AUD7I028",
+    "name": "Joyería contemporánea",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Oficios y Accesorios",
+    "ok": 0
+  },
+  {
+    "id": 117,
+    "code": "AUDIV038",
+    "name": "La ciudad moderna y representaciones simbólicas",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Teoría y Crítica Cultural",
+    "ok": 0
+  },
+  {
+    "id": 118,
+    "code": "AUDIV025",
+    "name": "La interacción del Color; su anatomía y lenguaje",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Morfología",
+    "focus": "Teoría y Aplicación del Color (CMF)",
+    "ok": 0
+  },
+  {
+    "id": 119,
+    "code": "AUD5I024",
+    "name": "Laboratorio de oficios contemporáneos",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Oficios y Cultura Material",
+    "ok": 0
+  },
+  {
+    "id": 120,
+    "code": "AUD7V020",
+    "name": "Lean UX y metodologías ágiles",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Diseño de Servicios y Experiencia",
+    "ok": 0
+  },
+  {
+    "id": 121,
+    "code": "AUD5V007, AUD5V010",
+    "name": "Lenguaje y composición fotográfica para el diseño",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Imagen y Lenguaje Visual",
+    "ok": 0
+  },
+  {
+    "id": 122,
+    "code": "AUD6V017",
+    "name": "Libro de artista, teoría y práctica",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Experimentación y Artes Visuales",
+    "ok": 0
+  },
+  {
+    "id": 123,
+    "code": "AUD7I007",
+    "name": "Maderas y materiales biobasados",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Bio-materiales y Nuevas Tecnologías",
+    "ok": 0
+  },
+  {
+    "id": 124,
+    "code": "AUD6V008",
+    "name": "Mapeo colectivo: Diseño y territorio",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Vinculación Territorial y Social",
+    "ok": 0
+  },
+  {
+    "id": 125,
+    "code": "AUD6I006",
+    "name": "Materiales cerámicos y metales desde ciclo de vida",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Ecodiseño y Sostenibilidad Material",
+    "ok": 0
+  },
+  {
+    "id": 126,
+    "code": "AUD6I009",
+    "name": "Materiales y Diseño industrial I. Fundamentos",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Laboratorio de Materiales y Oficios",
+    "ok": 0
+  },
+  {
+    "id": 127,
+    "code": "AUD5I006",
+    "name": "Materiales y procesos industriales, ciclo de la vida",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Ecodiseño y Sostenibilidad Material",
+    "ok": 0
+  },
+  {
+    "id": 128,
+    "code": "AUD6I016",
+    "name": "Materiales, tecnologías y Procesos de fabricación",
+    "type": "troncal",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Manufactura y Producción Industrial",
+    "ok": 0
+  },
+  {
+    "id": 129,
+    "code": "AUD7I012",
+    "name": "Mecánica y Biomecánica aplicadas al Diseño",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Biomecánica y Ergonomía Avanzada",
+    "ok": 0
+  },
+  {
+    "id": 130,
+    "code": "AUD6I015",
+    "name": "Modelamiento y representación digital",
+    "type": "troncal",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Modelado y Simulación Digital",
+    "ok": 0
+  },
+  {
+    "id": 131,
+    "code": "AUD7I010",
+    "name": "Modelos y procesos de vitrofusión en cerámica",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Oficios y Cultura Material",
+    "ok": 0
+  },
+  {
+    "id": 132,
+    "code": "AUDIV036",
+    "name": "Movilidad Urbana y Ciudad Sustentable",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Vinculación Territorial y Social",
+    "ok": 0
+  },
+  {
+    "id": 133,
+    "code": "AUDIV058",
+    "name": "Muralismo en Chile: espacio y contexto político",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Patrimonio e Identidad",
+    "ok": 0
+  },
+  {
+    "id": 134,
+    "code": "AUDIV004",
+    "name": "Museografía",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Gestión Cultural y de Industrias",
+    "ok": 0
+  },
+  {
+    "id": 135,
+    "code": "AUD7V024",
+    "name": "Narrativa gráfica",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Narrativa Visual e Ilustración",
+    "ok": 0
+  },
+  {
+    "id": 136,
+    "code": "AUD7V019",
+    "name": "Oficio digital",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Ciencia y Tecnología",
+    "focus": "Post-producción y Medios Digitales",
+    "ok": 1
+  },
+  {
+    "id": 137,
+    "code": "AUDIV003",
+    "name": "Packaging de productos",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Morfología",
+    "focus": "Morfología de Objetos Complejos",
+    "ok": 0
+  },
+  {
+    "id": 138,
+    "code": "AUDIV033",
+    "name": "Paisajes Energéticos",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Ciencia y Tecnología",
+    "focus": "Tecnologías de Energía y Sustentabilidad",
+    "ok": 0
+  },
+  {
+    "id": 139,
+    "code": "AUDIV050",
+    "name": "Panorama del pensamiento estético",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Teoría y Crítica Cultural",
+    "ok": 0
+  },
+  {
+    "id": 140,
+    "code": "AUDIV054",
+    "name": "Patrimonio + Turismo",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Patrimonio e Identidad",
+    "ok": 0
+  },
+  {
+    "id": 141,
+    "code": "AUD7V022",
+    "name": "Patrimonio intangible y cultural popular",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Patrimonio e Identidad",
+    "ok": 0
+  },
+  {
+    "id": 142,
+    "code": "AUDIV040",
+    "name": "Patrimonio material e inmaterial Valle Central",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Patrimonio e Identidad",
+    "ok": 0
+  },
+  {
+    "id": 143,
+    "code": "AUD5I028, AUDIV042",
+    "name": "Patrimonio y restauración arquitectónica",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Patrimonio y Expresión Formal",
+    "ok": 0
+  },
+  {
+    "id": 144,
+    "code": "AUDIV035",
+    "name": "Proceso, creatividad y proyecto",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Investigación y Metodología",
+    "ok": 0
+  },
+  {
+    "id": 145,
+    "code": "AUD5I011",
+    "name": "Procesos avanzados de fabricación",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Manufactura y Producción Industrial",
+    "ok": 0
+  },
+  {
+    "id": 146,
+    "code": "AUDIV052",
+    "name": "Procesos digitales",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Ciencia y Tecnología",
+    "focus": "Computación y Pensamiento Lógico",
+    "ok": 0
+  },
+  {
+    "id": 147,
+    "code": "AUD6V021",
+    "name": "Producción Editorial y usos tipográficos",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Ciencia y Tecnología",
+    "focus": "Post-producción y Medios Digitales",
+    "ok": 0
+  },
+  {
+    "id": 148,
+    "code": "AUD6V015",
+    "name": "Producción Gráfica 2.0 Editorial y Packaging",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Ciencia y Tecnología",
+    "focus": "Post-producción y Medios Digitales",
+    "ok": 0
+  },
+  {
+    "id": 149,
+    "code": "AUD7I009",
+    "name": "Producción semi-industrial para proyectos de diseño",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Manufactura y Producción Industrial",
+    "ok": 0
+  },
+  {
+    "id": 150,
+    "code": "AUDIV031",
+    "name": "Produciendo un hábitat accesible",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Vinculación Territorial y Social",
+    "ok": 0
+  },
+  {
+    "id": 151,
+    "code": "AUDIV028",
+    "name": "Programa Chiloé: Territorio, paisaje y cultura",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Vinculación Territorial y Social",
+    "ok": 0
+  },
+  {
+    "id": 152,
+    "code": "AUDIV056",
+    "name": "Programa de Innovación a Emprendimiento (PIES)",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Emprendimiento y Negocios",
+    "ok": 0
+  },
+  {
+    "id": 153,
+    "code": "AUD5V0010",
+    "name": "Programación para el Diseño de interacción",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Ciencia y Tecnología",
+    "focus": "Programación y Desarrollo Web",
+    "ok": 0
+  },
+  {
+    "id": 154,
+    "code": "AUD5V014",
+    "name": "Programación web e introducción a la animación digital",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Ciencia y Tecnología",
+    "focus": "Programación y Desarrollo Web",
+    "ok": 0
+  },
+  {
+    "id": 155,
+    "code": "AUD5I026",
+    "name": "Prototipado y comunicación de experiencias y servicios",
+    "type": "troncal",
+    "track": "I y S",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Diseño de Servicios y Experiencia",
+    "ok": 0
+  },
+  {
+    "id": 156,
+    "code": "AUD5V023",
+    "name": "Publicaciones editoriales experimentales",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Composición Editorial y Tipográfica",
+    "ok": 0
+  },
+  {
+    "id": 157,
+    "code": "AUD5V022",
+    "name": "Puesta en valor desde el diseño patrimonio identidad y cultura",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Patrimonio e Identidad",
+    "ok": 0
+  },
+  {
+    "id": 158,
+    "code": "AUDIV022",
+    "name": "Realidad virtual para diseño y arquitectura",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Ciencia y Tecnología",
+    "focus": "Realidad Virtual y Aumentada",
+    "ok": 0
+  },
+  {
+    "id": 159,
+    "code": "AUD7I027",
+    "name": "Reconocimiento y diseño de superficies textiles",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Morfología Textil y Superficies",
+    "ok": 0
+  },
+  {
+    "id": 160,
+    "code": "AUDIV030",
+    "name": "Representación arquitectónica (gráfica tradicional)",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Morfología",
+    "focus": "Representación y Bocetaje (Sketching)",
+    "ok": 0
+  },
+  {
+    "id": 161,
+    "code": "AUD5V028",
+    "name": "Representación arquitectónica mediante gráficas tradicionales",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Representación y Bocetaje (Sketching)",
+    "ok": 0
+  },
+  {
+    "id": 162,
+    "code": "AUDIV008",
+    "name": "Semiótica",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Teoría y Crítica Cultural",
+    "ok": 0
+  },
+  {
+    "id": 163,
+    "code": "AUDI5029",
+    "name": "Smart Cities, nuevas ciudades",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Vinculación Territorial y Social",
+    "ok": 0
+  },
+  {
+    "id": 164,
+    "code": "AUDIV026",
+    "name": "Sociedad y Moda",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Teoría y Crítica Cultural",
+    "ok": 0
+  },
+  {
+    "id": 165,
+    "code": "AUD5V026",
+    "name": "Taller de Ilustración",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Narrativa Visual e Ilustración",
+    "ok": 0
+  },
+  {
+    "id": 166,
+    "code": "AUD6I021",
+    "name": "Taller de metalmecánica para diseñadores",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Manufactura y Producción Industrial",
+    "ok": 0
+  },
+  {
+    "id": 167,
+    "code": "AUDIV034",
+    "name": "Taller práctico de experimentación de materiales",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Ciencia y Tecnología",
+    "focus": "Laboratorio de Materiales y Oficios",
+    "ok": 0
+  },
+  {
+    "id": 168,
+    "code": "AUD5I027",
+    "name": "Técnicas de intervención y experimentación textil",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Morfología Textil y Superficies",
+    "ok": 0
+  },
+  {
+    "id": 169,
+    "code": "AUD6I017, AUDIV043",
+    "name": "Tensoestructuras",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Ciencia y Tecnología",
+    "focus": "Sistemas Constructivos y Estructuras",
+    "ok": 0
+  },
+  {
+    "id": 170,
+    "code": "AUD5I009",
+    "name": "Teoría y práctica del diseño de calzado",
+    "type": "abierto",
+    "track": "I y S",
+    "group": "Morfología",
+    "focus": "Oficios y Accesorios",
+    "ok": 0
+  },
+  {
+    "id": 171,
+    "code": "AUDIV061",
+    "name": "Territorios periféricos",
+    "type": "abierto",
+    "track": "Ambas",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Vinculación Territorial y Social",
+    "ok": 0
+  },
+  {
+    "id": 172,
+    "code": "AUD5V009",
+    "name": "Tipografía",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Composición Editorial y Tipográfica",
+    "ok": 0
+  },
+  {
+    "id": 173,
+    "code": "AUD5V011",
+    "name": "Tipografía: cultura y sociedad",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Teoría y Crítica Cultural",
+    "ok": 0
+  },
+  {
+    "id": 174,
+    "code": "AUD7V007",
+    "name": "Tipografía: Forma y función",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Morfología",
+    "focus": "Composición Editorial y Tipográfica",
+    "ok": 0
+  },
+  {
+    "id": 175,
+    "code": "AUD7V017",
+    "name": "Ux UI, Experiencia de usuario e interfaz",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Ciencia y Tecnología",
+    "focus": "Programación y Desarrollo Web",
+    "ok": 0
+  },
+  {
+    "id": 176,
+    "code": "AUD6V012",
+    "name": "Vanguardias racionales-constructivas",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Teoría y Crítica Cultural",
+    "ok": 0
+  },
+  {
+    "id": 177,
+    "code": "AUD7V011",
+    "name": "Visualización de Datos",
+    "type": "abierto",
+    "track": "V y M",
+    "group": "Comunicación y Gestión del Diseño",
+    "focus": "Comunicación Visual Estratégica",
+    "ok": 1
+  }
+]

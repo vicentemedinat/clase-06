@@ -1,0 +1,178 @@
+id,code,name,type,track,group,focus,ok
+1,AUD6V014,Análisis de problemas informáticos en Diseño    ,abierto,V y M,Ciencia y Tecnología,Computación y Pensamiento Lógico,0
+2,AUD5I016,Análisis y fabricación avanzada asistidos por computador   ,abierto,I y S,Ciencia y Tecnología,Manufactura y Producción Industrial,0
+3,AUD5V0011,Animación Digital        ,abierto,V y M,Ciencia y Tecnología,Post-producción y Medios Digitales,0
+4,AUD7V008,Animación y edición digital      ,abierto,V y M,Ciencia y Tecnología,Post-producción y Medios Digitales,0
+5,AUD5I033,Arquitectura sin Residuos - Prefabricación e Industrialización   ,abierto,I y S,Ciencia y Tecnología,Ecodiseño y Sostenibilidad Material,0
+6,AUD5I031,"Artesanías: cultura, técnica y producto     ",abierto,I y S,Morfología,Oficios y Cultura Material,0
+7,AUD5I025,BattleBots: Interfacultades        ,abierto,I y S,Ciencia y Tecnología,Robótica y Mecatrónica,0
+8,AUD5I013,Biobased materials for the built environment    ,abierto,I y S,Ciencia y Tecnología,Bio-materiales y Nuevas Tecnologías,0
+9,AUD7I026,Biomecánica e innovación aplicada (ortopedia)     ,abierto,I y S,Ciencia y Tecnología,Biomecánica y Ergonomía Avanzada,0
+10,"AUD5I030, AUD6I024",Biomecánica e innovación aplicada al diseño ortopédico   ,abierto,I y S,Ciencia y Tecnología,Biomecánica y Ergonomía Avanzada,0
+11,AUD5I007,Bocetaje avanzado para el diseño del producto   ,abierto,I y S,Morfología,Representación y Bocetaje (Sketching),0
+12,AUDIV005,Branding         ,abierto,Ambas,Comunicación y Gestión del Diseño,Comunicación Visual Estratégica,0
+13,AUDIV007,Color aplicado al diseño      ,abierto,Ambas,Morfología,Teoría y Aplicación del Color (CMF),0
+14,AUDIV002,Color y percepción       ,abierto,Ambas,Morfología,Teoría y Aplicación del Color (CMF),0
+15,AUDIV012,"Color, anatomía y lenguaje      ",abierto,Ambas,Morfología,Teoría y Aplicación del Color (CMF),0
+16,AUD7I015,"Color, materiales y acabados (CMF)     ",abierto,I y S,Morfología,Teoría y Aplicación del Color (CMF),0
+17,AUD7V016,"Color, semiótica y lenguaje      ",abierto,V y M,Morfología,Teoría y Aplicación del Color (CMF),0
+18,AUD5I017,Complementos sostenibles y Joyería contemporánea     ,abierto,I y S,Morfología,Oficios y Accesorios,0
+19,AUD5I012,"Comunicación, prototipado e implementación de servicios    ",abierto,I y S,Comunicación y Gestión del Diseño,Diseño de Servicios y Experiencia,0
+20,AUD5I032,Construcción en madera       ,abierto,I y S,Ciencia y Tecnología,Sistemas Constructivos y Estructuras,0
+21,AUD7V006,Contingencia social y diseño centrado en el usuario  ,abierto,V y M,Comunicación y Gestión del Diseño,Vinculación Territorial y Social,0
+22,AUD7I018,Creación textil participativa       ,abierto,I y S,Comunicación y Gestión del Diseño,Vinculación Territorial y Social,0
+23,"AUD6V013, AUD7V010",Creación y Diseño de personajes para animación   ,abierto,V y M,Morfología,Narrativa Visual e Ilustración,0
+24,AUD5I018,Creatividad para el Diseño industrial y servicios   ,abierto,I y S,Comunicación y Gestión del Diseño,Metodologías Creativas,0
+25,AUD5V013,Creatividad y diseño       ,abierto,V y M,Comunicación y Gestión del Diseño,Metodologías Creativas,0
+26,AUD7I019,Creatividad y gamificación       ,abierto,I y S,Comunicación y Gestión del Diseño,Metodologías Creativas,0
+27,AUDIV021,"Crítica cultural, visualidades feministas      ",abierto,Ambas,Comunicación y Gestión del Diseño,Teoría y Crítica Cultural,0
+28,AUDIV057,Croquis y dibujo arquitectónico      ,abierto,Ambas,Morfología,Representación y Bocetaje (Sketching),0
+29,AUD7V012,Cultura visual en Latinoamérica      ,abierto,V y M,Comunicación y Gestión del Diseño,Teoría y Crítica Cultural,0
+30,AUD5I014,Design sketching. Bocetaje para Diseñadores Industriales    ,abierto,I y S,Morfología,Representación y Bocetaje (Sketching),0
+31,AUDIV023,Diseño automotriz        ,abierto,Ambas,Morfología,Morfología de Objetos Complejos,0
+32,AUD5I015,Diseño de accesorios con reinvención de materiales   ,abierto,I y S,Morfología,Experimentación Material y Upcycling,0
+33,AUD6V009,Diseño de Contexto y el viaje del cliente  ,abierto,V y M,Comunicación y Gestión del Diseño,Diseño de Servicios y Experiencia,0
+34,AUD6V027,Diseño de ediciones experimentales      ,abierto,V y M,Morfología,Composición Editorial y Tipográfica,0
+35,AUDIV020,Diseño de instrumentos musicales digitales     ,abierto,Ambas,Ciencia y Tecnología,Prototipado Electrónico e Interacción,0
+36,AUD7V021,Diseño de interacción y experiencia     ,troncal,V y M,Comunicación y Gestión del Diseño,Diseño de Servicios y Experiencia,0
+37,AUD5I022,Diseño de interfaz electrónica mediante Arduino    ,abierto,I y S,Ciencia y Tecnología,Prototipado Electrónico e Interacción,0
+38,AUD6I007,Diseño de productos y servicios basado en emociones  ,abierto,I y S,Comunicación y Gestión del Diseño,Diseño de Servicios y Experiencia,0
+39,"AUD6I019, AUDIV059",Diseño de vehículos       ,abierto,Ambas,Morfología,Morfología de Objetos Complejos,0
+40,AUD6V006,Diseño de vídeo juegos      ,abierto,V y M,Ciencia y Tecnología,Programación y Desarrollo Web,0
+41,AUD5V006,Diseño editorial        ,abierto,V y M,Morfología,Composición Editorial y Tipográfica,0
+42,AUD6V020,Diseño editorial y publicación      ,troncal,V y M,Comunicación y Gestión del Diseño,Gestión de Publicaciones,0
+43,AUD5V024,Diseño editorial: de la creación a la publicación  ,abierto,V y M,Comunicación y Gestión del Diseño,Gestión de Publicaciones,0
+44,AUD7I016,Diseño estratégico de productos y servicios    ,abierto,I y S,Comunicación y Gestión del Diseño,Estrategia y Sostenibilidad,0
+45,AUD5V025,Diseño Gráfico para industrias culturales     ,abierto,V y M,Comunicación y Gestión del Diseño,Gestión Cultural y de Industrias,0
+46,AUD6V023,Diseño Gráfico para las Artes     ,abierto,V y M,Comunicación y Gestión del Diseño,Gestión Cultural y de Industrias,0
+47,AUD7I006,"Diseño para el ciclismo, objetos     ",abierto,I y S,Morfología,Morfología de Objetos Complejos,0
+48,AUDIV013,Diseño para Innovación Social      ,abierto,Ambas,Comunicación y Gestión del Diseño,Vinculación Territorial y Social,0
+49,AUD6I018,Diseño y construcción sustentable con madera masiva   ,abierto,I y S,Ciencia y Tecnología,Sistemas Constructivos y Estructuras,0
+50,AUD5V012,Diseño y Cultura Visual en Chile    ,abierto,V y M,Comunicación y Gestión del Diseño,Teoría y Crítica Cultural,0
+51,AUD6I014,Diseño y energías renovables      ,abierto,I y S,Ciencia y Tecnología,Tecnologías de Energía y Sustentabilidad,0
+52,AUD7V009,Diseño y estrategia de publicidad y propaganda   ,abierto,V y M,Comunicación y Gestión del Diseño,Comunicación Visual Estratégica,0
+53,AUDIV009,Diseño y Marketing de Productos y Servicios   ,abierto,Ambas,Comunicación y Gestión del Diseño,Emprendimiento y Negocios,0
+54,AUDIV006,Diseño y Montaje de Exposiciones     ,abierto,Ambas,Morfología,Imagen y Lenguaje Visual,0
+55,AUD6I012,"Diseño y patrimonio, Técnicas artesanales     ",abierto,I y S,Morfología,Oficios y Cultura Material,0
+56,AUD6V019,Diseño y pensamiento crítico      ,abierto,V y M,Comunicación y Gestión del Diseño,Teoría y Crítica Cultural,0
+57,AUD6I013,Diseño y Sustentabilidad para la Economía Circular   ,abierto,I y S,Comunicación y Gestión del Diseño,Estrategia y Sostenibilidad,0
+58,AUD5V027,Diseño y visualización de información     ,troncal,V y M,Comunicación y Gestión del Diseño,Comunicación Visual Estratégica,0
+59,AUD7V013,"Diseño, afecto y género      ",abierto,V y M,Comunicación y Gestión del Diseño,Teoría y Crítica Cultural,0
+60,AUD6V024,Edición experimental y artes visuales     ,abierto,V y M,Morfología,Experimentación y Artes Visuales,0
+61,AUD6V022,Editar-diseñar-publicar. Discursos de la arquitectura     ,abierto,V y M,Comunicación y Gestión del Diseño,Gestión de Publicaciones,0
+62,AUD6V018,Educación tipográfica        ,abierto,V y M,Comunicación y Gestión del Diseño,Teoría y Crítica Cultural,0
+63,AUD7V014,El discurso del afiche político: estética y praxis  ,abierto,V y M,Comunicación y Gestión del Diseño,Teoría y Crítica Cultural,0
+64,AUD7I003,Electivo Diseño Industrial y Servicios 7    ,abierto,I y S,Comunicación y Gestión del Diseño,Gestión y Proyectos de Mención,0
+65,AUD7I004,Electivo Diseño Industrial y Servicios 8    ,abierto,I y S,Comunicación y Gestión del Diseño,Gestión y Proyectos de Mención,0
+66,AUD7I005,Electivo Diseño Industrial y Servicios 9    ,abierto,I y S,Comunicación y Gestión del Diseño,Gestión y Proyectos de Mención,0
+67,AUD7I014,Emprendimiento basado en Diseño      ,abierto,I y S,Comunicación y Gestión del Diseño,Emprendimiento y Negocios,0
+68,AUDIV001,Emprendimiento y consultoría en diseño     ,abierto,Ambas,Comunicación y Gestión del Diseño,Emprendimiento y Negocios,0
+69,AUD7I022,Enfoques emergentes y sustentabilidad      ,abierto,I y S,Comunicación y Gestión del Diseño,Estrategia y Sostenibilidad,0
+70,"AUD5I020, AUD5V020","Enfoques investigativos en Diseño, innovación y creatividad   ",abierto,V y M,Comunicación y Gestión del Diseño,Investigación y Metodología,0
+71,AUDIV051,English for Work Purposes      ,abierto,Ambas,Comunicación y Gestión del Diseño,Comunicación Visual Estratégica,0
+72,AUDIV055,Entorno construido y bienestar      ,abierto,Ambas,Comunicación y Gestión del Diseño,Vinculación Territorial y Social,0
+73,AUD7I029,Ergonomía aplicada al diseño de vehículos    ,abierto,I y S,Ciencia y Tecnología,Biomecánica y Ergonomía Avanzada,0
+74,AUDIV037,Espacio público y ciudades saludables     ,abierto,Ambas,Comunicación y Gestión del Diseño,Vinculación Territorial y Social,0
+75,AUD6V016,Estética e industrias culturales      ,abierto,V y M,Comunicación y Gestión del Diseño,Gestión Cultural y de Industrias,0
+76,AUDIV019,Estrategias de Ecodiseño       ,abierto,Ambas,Comunicación y Gestión del Diseño,Estrategia y Sostenibilidad,0
+77,AUD7I020,"Estructuras, materiales compuestos y plásticos     ",abierto,I y S,Ciencia y Tecnología,Sistemas Constructivos y Estructuras,0
+78,ESPE22,Experiencia de usuario digital      ,abierto,—,Comunicación y Gestión del Diseño,Diseño de Servicios y Experiencia,0
+79,AUD7V015,Experimentación editorial        ,abierto,V y M,Morfología,Composición Editorial y Tipográfica,0
+80,AUD7I023,Experimentación textil orientada al upcycling     ,abierto,I y S,Morfología,Experimentación Material y Upcycling,0
+81,AUD5I019,Exploración creativa con los materiales y sus tecnologías  ,abierto,I y S,Ciencia y Tecnología,Laboratorio de Materiales y Oficios,0
+82,AUDIV053,Fundamentos de Diseño Digital      ,abierto,Ambas,Ciencia y Tecnología,Post-producción y Medios Digitales,0
+83,AUDIV049,Fundamentos de Economía       ,abierto,Ambas,Comunicación y Gestión del Diseño,Emprendimiento y Negocios,0
+84,AUD6V010,Fundamentos fotográficos        ,abierto,V y M,Morfología,Imagen y Lenguaje Visual,0
+85,AUD5I023,Gamificación para el Diseño industrial y servicios   ,abierto,I y S,Comunicación y Gestión del Diseño,Diseño de Servicios y Experiencia,0
+86,AUDIV041,Geografía feminista        ,abierto,Ambas,Comunicación y Gestión del Diseño,Teoría y Crítica Cultural,0
+87,AUDIV060,Geografías participativas y divulgación      ,abierto,Ambas,Comunicación y Gestión del Diseño,Vinculación Territorial y Social,0
+88,AUD5I029,Gestión y producción de arquitectura interior    ,abierto,I y S,Comunicación y Gestión del Diseño,Gestión de Producción,0
+89,AUD7I011,Herramientas computacionales I. Representación      ,abierto,I y S,Ciencia y Tecnología,Modelado y Simulación Digital,0
+90,AUD5I008,"Herramientas computacionales II, modelamiento paramétrico     ",abierto,I y S,Ciencia y Tecnología,Modelado y Simulación Digital,0
+91,AUD7I013,Herramientas computacionales IV. Modelamiento generativo     ,abierto,I y S,Ciencia y Tecnología,Computación y Pensamiento Lógico,0
+92,AUD6I008,Herramientas computacionales: representación y simulación     ,abierto,I y S,Ciencia y Tecnología,Modelado y Simulación Digital,0
+93,AUD7I008,Herramientas computacionales. Modelado conceptual      ,abierto,I y S,Ciencia y Tecnología,Modelado y Simulación Digital,0
+94,AUD7I021,Herramientas de sustentabilidad textil y upcycling    ,abierto,I y S,Ciencia y Tecnología,Ecodiseño y Sostenibilidad Material,0
+95,AUDIV010,Herramientas para el emprendimiento en diseño    ,abierto,Ambas,Comunicación y Gestión del Diseño,Emprendimiento y Negocios,0
+96,AUD6I010,Historia y Teoría de la moda    ,abierto,I y S,Comunicación y Gestión del Diseño,Teoría y Crítica Cultural,0
+97,AUD6V025,Iconografía de la contracultura en Chile    ,abierto,V y M,Comunicación y Gestión del Diseño,Teoría y Crítica Cultural,0
+98,AUDIV039,Iluminación Natural: diseño eficiente      ,abierto,Ambas,Ciencia y Tecnología,Tecnologías de Energía y Sustentabilidad,0
+99,AUD7V018,Ilustración Creativa        ,abierto,V y M,Morfología,Narrativa Visual e Ilustración,0
+100,AUD6V007,Ilustración editorial        ,abierto,V y M,Morfología,Narrativa Visual e Ilustración,0
+101,AUD5V008,Infografía         ,abierto,V y M,Comunicación y Gestión del Diseño,Comunicación Visual Estratégica,0
+102,AUD5I010,Innovación para la sostenibilidad      ,abierto,I y S,Comunicación y Gestión del Diseño,Estrategia y Sostenibilidad,0
+103,AUDIV027,Inteligencia Artificial        ,abierto,Ambas,Ciencia y Tecnología,Inteligencia Artificial y Datos,0
+104,AUD6I023,Inteligencia Artificial aplicada a la Gestión de Proyectos  ,abierto,I y S,Comunicación y Gestión del Diseño,Gestión y Proyectos de Mención,0
+105,AUD6V026,Inteligencia Artificial Generativa       ,abierto,V y M,Ciencia y Tecnología,Inteligencia Artificial y Datos,0
+106,AUDIV024,Internet de las cosas para vivienda social   ,abierto,Ambas,Ciencia y Tecnología,Prototipado Electrónico e Interacción,0
+107,AUDIV029,Interventions in public space      ,abierto,Ambas,Comunicación y Gestión del Diseño,Vinculación Territorial y Social,0
+108,AUD5V0012,Introducción a la Ilustración      ,abierto,V y M,Morfología,Narrativa Visual e Ilustración,0
+109,AUD6V011,Introducción a la producción gráfica     ,abierto,V y M,Ciencia y Tecnología,Post-producción y Medios Digitales,0
+110,AUD7I025,Introducción al biodiseño       ,abierto,I y S,Ciencia y Tecnología,Bio-materiales y Nuevas Tecnologías,0
+111,"AUD5I021, AUD5V021","Introducción al Desarrollo Front End con HTML, CSS y JS",abierto,V y M,Ciencia y Tecnología,Programación y Desarrollo Web,0
+112,AUDIV011,Introducción al diseño de packaging     ,abierto,Ambas,Morfología,Morfología de Objetos Complejos,0
+113,AUD7I024,Introducción al Diseño de Vehículos con VR   ,abierto,I y S,Ciencia y Tecnología,Realidad Virtual y Aumentada,0
+114,AUD6I020,Introducción al moldaje y sistemas de representación textil  ,abierto,I y S,Morfología,Morfología Textil y Superficies,0
+115,AUDIV018,Investigación-Acción Participativa (PAR)       ,abierto,Ambas,Comunicación y Gestión del Diseño,Investigación y Metodología,0
+116,AUD7I028,Joyería contemporánea        ,abierto,I y S,Morfología,Oficios y Accesorios,0
+117,AUDIV038,La ciudad moderna y representaciones simbólicas    ,abierto,Ambas,Comunicación y Gestión del Diseño,Teoría y Crítica Cultural,0
+118,AUDIV025,La interacción del Color; su anatomía y lenguaje  ,abierto,Ambas,Morfología,Teoría y Aplicación del Color (CMF),0
+119,AUD5I024,Laboratorio de oficios contemporáneos      ,abierto,I y S,Morfología,Oficios y Cultura Material,0
+120,AUD7V020,Lean UX y metodologías ágiles     ,abierto,V y M,Comunicación y Gestión del Diseño,Diseño de Servicios y Experiencia,0
+121,"AUD5V007, AUD5V010",Lenguaje y composición fotográfica para el diseño   ,abierto,V y M,Morfología,Imagen y Lenguaje Visual,0
+122,AUD6V017,"Libro de artista, teoría y práctica    ",abierto,V y M,Morfología,Experimentación y Artes Visuales,0
+123,AUD7I007,Maderas y materiales biobasados      ,abierto,I y S,Ciencia y Tecnología,Bio-materiales y Nuevas Tecnologías,0
+124,AUD6V008,Mapeo colectivo: Diseño y territorio     ,abierto,V y M,Comunicación y Gestión del Diseño,Vinculación Territorial y Social,0
+125,AUD6I006,Materiales cerámicos y metales desde ciclo de vida  ,abierto,I y S,Ciencia y Tecnología,Ecodiseño y Sostenibilidad Material,0
+126,AUD6I009,Materiales y Diseño industrial I. Fundamentos    ,abierto,I y S,Ciencia y Tecnología,Laboratorio de Materiales y Oficios,0
+127,AUD5I006,"Materiales y procesos industriales, ciclo de la vida  ",abierto,I y S,Ciencia y Tecnología,Ecodiseño y Sostenibilidad Material,0
+128,AUD6I016,"Materiales, tecnologías y Procesos de fabricación    ",troncal,I y S,Ciencia y Tecnología,Manufactura y Producción Industrial,0
+129,AUD7I012,Mecánica y Biomecánica aplicadas al Diseño    ,abierto,I y S,Ciencia y Tecnología,Biomecánica y Ergonomía Avanzada,0
+130,AUD6I015,Modelamiento y representación digital      ,troncal,I y S,Ciencia y Tecnología,Modelado y Simulación Digital,0
+131,AUD7I010,Modelos y procesos de vitrofusión en cerámica   ,abierto,I y S,Morfología,Oficios y Cultura Material,0
+132,AUDIV036,Movilidad Urbana y Ciudad Sustentable     ,abierto,Ambas,Comunicación y Gestión del Diseño,Vinculación Territorial y Social,0
+133,AUDIV058,Muralismo en Chile: espacio y contexto político   ,abierto,Ambas,Comunicación y Gestión del Diseño,Patrimonio e Identidad,0
+134,AUDIV004,Museografía         ,abierto,Ambas,Comunicación y Gestión del Diseño,Gestión Cultural y de Industrias,0
+135,AUD7V024,Narrativa gráfica        ,abierto,V y M,Morfología,Narrativa Visual e Ilustración,0
+136,AUD7V019,Oficio digital        ,abierto,V y M,Ciencia y Tecnología,Post-producción y Medios Digitales,1
+137,AUDIV003,Packaging de productos       ,abierto,Ambas,Morfología,Morfología de Objetos Complejos,0
+138,AUDIV033,Paisajes Energéticos        ,abierto,Ambas,Ciencia y Tecnología,Tecnologías de Energía y Sustentabilidad,0
+139,AUDIV050,Panorama del pensamiento estético      ,abierto,Ambas,Comunicación y Gestión del Diseño,Teoría y Crítica Cultural,0
+140,AUDIV054,Patrimonio + Turismo       ,abierto,Ambas,Comunicación y Gestión del Diseño,Patrimonio e Identidad,0
+141,AUD7V022,Patrimonio intangible y cultural popular     ,abierto,V y M,Comunicación y Gestión del Diseño,Patrimonio e Identidad,0
+142,AUDIV040,Patrimonio material e inmaterial Valle Central    ,abierto,Ambas,Comunicación y Gestión del Diseño,Patrimonio e Identidad,0
+143,"AUD5I028, AUDIV042",Patrimonio y restauración arquitectónica      ,abierto,I y S,Morfología,Patrimonio y Expresión Formal,0
+144,AUDIV035,"Proceso, creatividad y proyecto      ",abierto,Ambas,Comunicación y Gestión del Diseño,Investigación y Metodología,0
+145,AUD5I011,Procesos avanzados de fabricación      ,abierto,I y S,Ciencia y Tecnología,Manufactura y Producción Industrial,0
+146,AUDIV052,Procesos digitales        ,abierto,Ambas,Ciencia y Tecnología,Computación y Pensamiento Lógico,0
+147,AUD6V021,Producción Editorial y usos tipográficos     ,abierto,V y M,Ciencia y Tecnología,Post-producción y Medios Digitales,0
+148,AUD6V015,Producción Gráfica 2.0 Editorial y Packaging    ,abierto,V y M,Ciencia y Tecnología,Post-producción y Medios Digitales,0
+149,AUD7I009,Producción semi-industrial para proyectos de diseño    ,abierto,I y S,Ciencia y Tecnología,Manufactura y Producción Industrial,0
+150,AUDIV031,Produciendo un hábitat accesible      ,abierto,Ambas,Comunicación y Gestión del Diseño,Vinculación Territorial y Social,0
+151,AUDIV028,"Programa Chiloé: Territorio, paisaje y cultura    ",abierto,Ambas,Comunicación y Gestión del Diseño,Vinculación Territorial y Social,0
+152,AUDIV056,Programa de Innovación a Emprendimiento (PIES)    ,abierto,Ambas,Comunicación y Gestión del Diseño,Emprendimiento y Negocios,0
+153,AUD5V0010,Programación para el Diseño de interacción    ,abierto,V y M,Ciencia y Tecnología,Programación y Desarrollo Web,0
+154,AUD5V014,Programación web e introducción a la animación digital  ,abierto,V y M,Ciencia y Tecnología,Programación y Desarrollo Web,0
+155,AUD5I026,Prototipado y comunicación de experiencias y servicios   ,troncal,I y S,Comunicación y Gestión del Diseño,Diseño de Servicios y Experiencia,0
+156,AUD5V023,Publicaciones editoriales experimentales       ,abierto,V y M,Morfología,Composición Editorial y Tipográfica,0
+157,AUD5V022,Puesta en valor desde el diseño patrimonio identidad y cultura,abierto,V y M,Comunicación y Gestión del Diseño,Patrimonio e Identidad,0
+158,AUDIV022,Realidad virtual para diseño y arquitectura    ,abierto,Ambas,Ciencia y Tecnología,Realidad Virtual y Aumentada,0
+159,AUD7I027,Reconocimiento y diseño de superficies textiles    ,abierto,I y S,Morfología,Morfología Textil y Superficies,0
+160,AUDIV030,Representación arquitectónica (gráfica tradicional)      ,abierto,Ambas,Morfología,Representación y Bocetaje (Sketching),0
+161,AUD5V028,Representación arquitectónica mediante gráficas tradicionales     ,abierto,V y M,Morfología,Representación y Bocetaje (Sketching),0
+162,AUDIV008,Semiótica         ,abierto,Ambas,Comunicación y Gestión del Diseño,Teoría y Crítica Cultural,0
+163,AUDI5029,"Smart Cities, nuevas ciudades      ",abierto,Ambas,Comunicación y Gestión del Diseño,Vinculación Territorial y Social,0
+164,AUDIV026,Sociedad y Moda       ,abierto,Ambas,Comunicación y Gestión del Diseño,Teoría y Crítica Cultural,0
+165,AUD5V026,Taller de Ilustración       ,abierto,V y M,Morfología,Narrativa Visual e Ilustración,0
+166,AUD6I021,Taller de metalmecánica para diseñadores     ,abierto,I y S,Ciencia y Tecnología,Manufactura y Producción Industrial,0
+167,AUDIV034,Taller práctico de experimentación de materiales    ,abierto,Ambas,Ciencia y Tecnología,Laboratorio de Materiales y Oficios,0
+168,AUD5I027,Técnicas de intervención y experimentación textil    ,abierto,I y S,Morfología,Morfología Textil y Superficies,0
+169,"AUD6I017, AUDIV043",Tensoestructuras         ,abierto,I y S,Ciencia y Tecnología,Sistemas Constructivos y Estructuras,0
+170,AUD5I009,Teoría y práctica del diseño de calzado   ,abierto,I y S,Morfología,Oficios y Accesorios,0
+171,AUDIV061,Territorios periféricos        ,abierto,Ambas,Comunicación y Gestión del Diseño,Vinculación Territorial y Social,0
+172,AUD5V009,Tipografía         ,abierto,V y M,Morfología,Composición Editorial y Tipográfica,0
+173,AUD5V011,Tipografía: cultura y sociedad      ,abierto,V y M,Comunicación y Gestión del Diseño,Teoría y Crítica Cultural,0
+174,AUD7V007,Tipografía: Forma y función      ,abierto,V y M,Morfología,Composición Editorial y Tipográfica,0
+175,AUD7V017,"Ux UI, Experiencia de usuario e interfaz   ",abierto,V y M,Ciencia y Tecnología,Programación y Desarrollo Web,0
+176,AUD6V012,Vanguardias racionales-constructivas        ,abierto,V y M,Comunicación y Gestión del Diseño,Teoría y Crítica Cultural,0
+177,AUD7V011,Visualización de Datos       ,abierto,V y M,Comunicación y Gestión del Diseño,Comunicación Visual Estratégica,1
